@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 主页访问量统计 -->
+<!--
 <div align="center">
   <img src="https://camo.githubusercontent.com/bb269a54e609ee24cb1080f5d78e5a45074852b424ab08e385b877bbf935c3b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f646576656c6f7065722e737667" style="height:300px"/>
 </div>
+-->
+
+<!-- 主页访问量统计 -->
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
 
 
