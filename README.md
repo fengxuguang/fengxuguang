@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
 
 <!-- 仓库状态统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&amp;show_icons=true&amp;theme=transparent" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&amp;show_icons=true&amp;theme=transparent" /> </div>
 
 <!-- 常用语言占比统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&amp;layout=compact&amp;theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxuguang&amp;layout=compact&amp;theme=tokyonight" /> </div>
 
 <!-- 社交链接 -->
 <div align="center">
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <a href="https://blog.csdn.net/fly_sky23"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&amp;emsp;
 <!--   <a href="https://www.zhihu.com/people/qin-zheng-kai-89"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&amp;emsp; -->
   <!-- visitor statistics logo 访问量统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=QInzhengk&amp;label=Views&amp;color=0e75b6&amp;style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=fengxuguang&amp;label=Views&amp;color=0e75b6&amp;style=flat" alt="访问量统计" />
 </div>
