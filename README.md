@@ -37,3 +37,5 @@ Here are some ideas to get you started:
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=fengxuguang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=fengxuguang&theme=dracula)
