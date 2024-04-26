@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/fengxuguang/fengxuguang/assets/20816359/c2663f2a-ed2f-4ac6-8635-e444f788273a)### Hi there 👋
 
 <!--
 **fengxuguang/fengxuguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 主页访问量统计 -->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/bb269a54e609ee24cb1080f5d78e5a45074852b424ab08e385b877bbf935c3b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f646576656c6f7065722e737667"/>
+</div>
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
 
 <!-- 仓库状态统计 -->
