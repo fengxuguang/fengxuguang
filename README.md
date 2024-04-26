@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋，I'm Fengxuguang
 
 <!--
 **fengxuguang/fengxuguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- 主页访问量统计 -->
 <div align="center">
   <img src="https://camo.githubusercontent.com/bb269a54e609ee24cb1080f5d78e5a45074852b424ab08e385b877bbf935c3b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f646576656c6f7065722e737667" style="height:300px"/>
 </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
+
 
 <!-- 仓库状态统计 -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&show_icons=true&theme=tokyonight" /> </div>
@@ -38,4 +40,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=fengxuguang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=fengxuguang&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fengxuguang&theme=vue"/>
+</div>
