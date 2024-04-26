@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
 
 <!-- 仓库状态统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&amp;show_icons=true&amp;theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&show_icons=true&theme=tokyonight" /> </div>
 
 <!-- 常用语言占比统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxuguang&amp;layout=compact&amp;theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxuguang&layout=compact&theme=tokyonight" /> </div>
 
 <!-- 社交链接 -->
 
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   <a href="https://blog.fengxuguang.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <a href="https://blog.csdn.net/fly_sky23"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <!-- visitor statistics logo 访问量统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=fengxuguang&amp;label=Views&amp;color=0e75b6&amp;style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=fengxuguang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
