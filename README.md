@@ -24,12 +24,15 @@ Here are some ideas to get you started:
 <!-- 主页访问量统计 -->
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
 
+<div align="center">
+  <!-- 仓库状态统计 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&show_icons=true&theme=tokyonight" /> 
 
-<!-- 仓库状态统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&show_icons=true&theme=tokyonight" /> </div>
+  <!-- 常用语言占比统计 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxuguang&layout=compact&theme=tokyonight" /> 
+</div>
 
-<!-- 常用语言占比统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxuguang&layout=compact&theme=tokyonight" /> </div>
+
 
 <!-- 社交链接 -->
 
@@ -46,3 +49,4 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fengxuguang&theme=vue"/>
 </div>
+
