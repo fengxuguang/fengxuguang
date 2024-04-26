@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 主页访问量统计 -->
+<div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
+
+<!-- 仓库状态统计 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&amp;show_icons=true&amp;theme=transparent" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&amp;layout=compact&amp;theme=tokyonight" /> </div>
