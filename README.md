@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://profile-counter.glitch.me/fengxuguang/count.svg" /> </div>
 
 <!-- 仓库状态统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&amp;show_icons=true&amp;theme=highcontrast" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengxuguang&amp;show_icons=true&amp;theme=tokyonight" /> </div>
 
 <!-- 常用语言占比统计 -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxuguang&amp;layout=compact&amp;theme=tokyonight" /> </div>
