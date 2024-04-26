@@ -1,4 +1,4 @@
-![image](https://github.com/fengxuguang/fengxuguang/assets/20816359/c2663f2a-ed2f-4ac6-8635-e444f788273a)### Hi there 👋
+### Hi there 👋
 
 <!--
 **fengxuguang/fengxuguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
